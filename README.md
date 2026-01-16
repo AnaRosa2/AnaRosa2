@@ -23,6 +23,4 @@ Alguns projetos desenvolvidos durante meus estudos e práticas:
 - **Projeto Full Stack** – Aplicação em desenvolvimento utilizando React, Node.js, Express e banco de dados relacional.  
 - **Automação com Python** – Scripts voltados à automação de tarefas e consumo de APIs.
 
-## Contato
-- GitHub: https://github.com/AnaRosa2  
-- LinkedIn: https://www.linkedin.com/in/ana-rosa-5a27b9367/
+
