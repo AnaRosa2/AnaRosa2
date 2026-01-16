@@ -5,7 +5,7 @@
 🚀 Em constante aprendizado e evolução técnica
 
 ## Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPI e desenvolvo projetos acadêmicos e práticos com foco em desenvolvimento de software. Tenho interesse em atuar como desenvolvedora Full Stack, com afinidade por banco de dados e análise de requisitos. Atualmente participo de um projeto de desenvolvimento fora da faculdade, onde aplico na prática os conhecimentos adquiridos e continuo evoluindo tecnicamente.
+Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPI e desenvolvo projetos acadêmicos e práticos com foco em desenvolvimento de software. Tenho interesse em atuar como desenvolvedora Full Stack, com afinidade por banco de dados e análise de requisitos. Atualmente participo de projetos de desenvolvimento fora da faculdade, onde aplico na prática os conhecimentos adquiridos e continuo evoluindo tecnicamente. Paralelamente, estudo Python com foco em automação de tarefas e manipulação de dados, ampliando minha base técnica.
 
 ## Tecnologias e ferramentas
 - **Linguagens:** TypeScript, JavaScript, Python (em aprendizado)
