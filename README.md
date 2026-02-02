@@ -17,10 +17,58 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPI e desenvolvo p
 - **Versionamento:** Git e GitHub  
 - **Idiomas:** Inglês básico (leitura e compreensão técnica)
 
-## Projetos
-Alguns projetos desenvolvidos durante meus estudos e práticas:
+## Alguns Projetos
 
-- **Projeto Full Stack** – Aplicação em desenvolvimento utilizando React, Node.js, Express e banco de dados relacional.  
-- **Automação com Python** – Scripts voltados à automação de tarefas e consumo de APIs.
+## Plano BNCC – Sistema Inteligente de Geração de Materiais Didáticos com IA
+
+** Projeto desenvolvido para o Hackathon IFPI 2026. **
+Aplicação web Full Stack para geração automática de planos de aula e atividades educacionais alinhadas à BNCC.
+
+Principais Funcionalidades:
+
+- Geração automática de planos de aula com IA
+- Criação de atividades avaliativas
+- Geração de slides educacionais
+- Exportação de materiais em PDF
+- Interface responsiva (desktop, tablet e mobile)
+- Persistência de dados local
+- 23 testes unitários passando
+
+** Tecnologias Utilizadas: **
+ React • TypeScript • Node.js • Express • Tailwind CSS • Vite • Google Gemini API • pdfmake • Vitest • Context API 
+ 
+** Diferenciais Técnicos: **
+- Integração Frontend ↔ Backend ↔ IA
+- Arquitetura separada cliente/servidor
+- Código tipado e organizado
+- Uso responsável de IA como ferramenta de produtividade
+
+## Sistema de Chamados de Suporte – TypeScript e POO
+
+## Projeto acadêmico baseado em estrutura proposta em disciplina, com implementações autorais e evolução para integração de API. 
+
+- Arquitetura em camadas (Model / Service / UI)
+- Implementação de classes e interfaces
+- Controle de estado em memória
+- Interface textual via prompt/alert
+- Evolução do projeto com integração de API
+- Organização modular em TypeScript
+
+** Tecnologias: TypeScript • Node.js • Parcel **
+
+## Automação com Python
+
+## Desenvolvimento de scripts para automação de tarefas, manipulação de dados e consumo de APIs, com aplicação de boas práticas de programação.
+
+** Principais aprendizados: **
+
+- Automação de processos no sistema operacional
+- Manipulação e análise básica de dados com Pandas
+- Consumo de APIs e organização de scripts
+- Uso de Jupyter Notebook para testes e documentação
+
+** Tecnologias: Python • Pandas • PyAutoGUI • Jupyter Notebook **
+
+
 
 
