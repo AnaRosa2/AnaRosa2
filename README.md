@@ -21,7 +21,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas pelo IFPI e desenvolvo p
 
 ## Plano BNCC – Sistema Inteligente de Geração de Materiais Didáticos com IA
 
-** Projeto desenvolvido para o Hackathon IFPI 2026. **
+Projeto desenvolvido em colaboração para o Hackathon IFPI 2026. 
 Aplicação web Full Stack para geração automática de planos de aula e atividades educacionais alinhadas à BNCC.
 
 Principais Funcionalidades:
@@ -34,10 +34,10 @@ Principais Funcionalidades:
 - Persistência de dados local
 - 23 testes unitários passando
 
-** Tecnologias Utilizadas: **
+Tecnologias Utilizadas: 
  React • TypeScript • Node.js • Express • Tailwind CSS • Vite • Google Gemini API • pdfmake • Vitest • Context API 
  
-** Diferenciais Técnicos: **
+Diferenciais Técnicos:
 - Integração Frontend ↔ Backend ↔ IA
 - Arquitetura separada cliente/servidor
 - Código tipado e organizado
@@ -54,20 +54,20 @@ Principais Funcionalidades:
 - Evolução do projeto com integração de API
 - Organização modular em TypeScript
 
-** Tecnologias: TypeScript • Node.js • Parcel **
+Tecnologias: TypeScript • Node.js • Parcel
 
 ## Automação com Python
 
 ## Desenvolvimento de scripts para automação de tarefas, manipulação de dados e consumo de APIs, com aplicação de boas práticas de programação.
 
-** Principais aprendizados: **
+Principais aprendizados:
 
 - Automação de processos no sistema operacional
 - Manipulação e análise básica de dados com Pandas
 - Consumo de APIs e organização de scripts
 - Uso de Jupyter Notebook para testes e documentação
 
-** Tecnologias: Python • Pandas • PyAutoGUI • Jupyter Notebook **
+Tecnologias: Python • Pandas • PyAutoGUI • Jupyter Notebook
 
 
 
