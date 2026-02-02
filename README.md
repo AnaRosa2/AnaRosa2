@@ -1,6 +1,6 @@
 # Olá! Eu sou Ana Rosa 👋
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí (IFPI)  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas pelo Instituto Federal do Piauí (IFPI) 
 💻 Foco em desenvolvimento Full Stack  
 🚀 Em constante aprendizado e evolução técnica  
 
